@@ -1,5 +1,6 @@
 # Commands in edlin
 Five commands are allowed in edlin. The commands are as follows:
+
 l - list file
 r - read file
 s - save file
